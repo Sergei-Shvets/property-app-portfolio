@@ -10,5 +10,6 @@ For creating this app i used the following technologies:
 - Mapbox
 and many others.
 
-You can find this app by the following address: property-app-portfolio.vercel.app
+You can find this app by the following address: <a>property-app-portfolio.vercel.app</a>
+
 Enjoy)))
